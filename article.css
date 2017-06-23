@@ -1,0 +1,64 @@
+#articleimg{
+  margin-left: 50%;
+  width: 50%;
+  height: 20%;
+}
+
+#article{
+  background: rgba(0,0,0,0.7);
+  margin-top: 3%;
+  margin-left: 7.5%;
+  font-family: EASPORTS;
+  color: white;
+  width: 85%;
+  border: 0;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);
+  text-decoration: none !important;
+}
+
+#articletitle{
+  margin-top: -27%;
+  padding-bottom: 16.8%;
+  margin-left: 2.5%;
+  font-weight: lighter;
+  font-size: 400%;
+width: 45%;
+text-align: center;
+}
+
+
+#articlebeschrijving1{
+margin-top: -16%;
+font-weight: lighter;
+padding-bottom: 12.2%;
+margin-left: 5%;
+text-align: left;
+width: 40%;
+}
+
+#articlebeschrijving2{
+margin-top: -1%;
+font-weight: lighter;
+padding-bottom: 12.2%;
+margin-left: 5%;
+text-align: left;
+width: 90%;
+}
+
+#title2{
+  font-weight: lighter;
+  text-align: left;
+  margin-top: -9%;
+  margin-left: 5%;
+}
+
+@media only screen and (max-width: 800px) {
+  #articlebeschrijving1{
+  margin-top: -16%;
+  font-weight: lighter;
+  padding-bottom: 12.2%;
+  margin-left: 5%;
+  text-align: left;
+  width: 90%;
+  }
+  )
